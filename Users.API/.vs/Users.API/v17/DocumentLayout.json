@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|c:\\users\\gironpc\\desktop\\integracao-sqlserver-entityframeworkcore\\users.api\\users.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|solutionrelative:users.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|c:\\users\\gironpc\\desktop\\integracao-sqlserver-entityframeworkcore\\users.api\\users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|solutionrelative:users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE89D84-C181-41F1-911C-02EE0BACDBE8}|Users.Domain\\Users.Domain.csproj|c:\\users\\gironpc\\desktop\\integracao-sqlserver-entityframeworkcore\\users.api\\users.domain\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE89D84-C181-41F1-911C-02EE0BACDBE8}|Users.Domain\\Users.Domain.csproj|solutionrelative:users.domain\\entidades\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|c:\\users\\gironpc\\desktop\\integracao-sqlserver-entityframeworkcore\\users.api\\users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|solutionrelative:users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|c:\\users\\gironpc\\desktop\\integracao-sqlserver-entityframeworkcore\\users.api\\users.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A3BC555-F0C9-4F4F-97EA-35A9A263A27E}|Users.API\\Users.API.csproj|solutionrelative:users.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2237CC20-4D1C-41C9-9C2D-05EADF8DAFED}|Users.Infraestrutura\\Users.Infraestrutura.csproj|c:\\users\\gironpc\\desktop\\integracao-sqlserver-entityframeworkcore\\users.api\\users.infraestrutura\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2237CC20-4D1C-41C9-9C2D-05EADF8DAFED}|Users.Infraestrutura\\Users.Infraestrutura.csproj|solutionrelative:users.infraestrutura\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Users.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Users.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T00:15:05.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Users.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Users.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:51:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\Program.cs",
+              "RelativeDocumentMoniker": "Users.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\Program.cs",
+              "RelativeToolTip": "Users.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:45:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.Domain\\Entidades\\User.cs",
+              "RelativeDocumentMoniker": "Users.Domain\\Entidades\\User.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.Domain\\Entidades\\User.cs",
+              "RelativeToolTip": "Users.Domain\\Entidades\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:21:31.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Users.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.API\\appsettings.json",
+              "RelativeToolTip": "Users.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T21:35:16.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.Infraestrutura\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Users.Infraestrutura\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Desktop\\integracao-sqlserver-entityframeworkcore\\Users.API\\Users.Infraestrutura\\UserDbContext.cs",
+              "RelativeToolTip": "Users.Infraestrutura\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:02:14.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

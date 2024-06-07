@@ -1,0 +1,11 @@
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\bin\Debug\net8.0\Users.Domain.deps.json
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\bin\Debug\net8.0\Users.Domain.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\bin\Debug\net8.0\Users.Domain.pdb
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\Users.Domain.AssemblyInfoInputs.cache
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\Users.Domain.AssemblyInfo.cs
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\Users.Domain.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\refint\Users.Domain.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\Users.Domain.pdb
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Domain\obj\Debug\net8.0\ref\Users.Domain.dll

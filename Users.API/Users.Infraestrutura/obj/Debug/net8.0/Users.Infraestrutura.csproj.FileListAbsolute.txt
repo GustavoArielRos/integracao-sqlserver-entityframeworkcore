@@ -1,0 +1,15 @@
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\bin\Debug\net8.0\Users.Infraestrutura.deps.json
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\bin\Debug\net8.0\Users.Infraestrutura.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\bin\Debug\net8.0\Users.Infraestrutura.pdb
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\bin\Debug\net8.0\Users.Domain.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\bin\Debug\net8.0\Users.Domain.pdb
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.AssemblyInfo.cs
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.In.E39B98D2.Up2Date
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\refint\Users.Infraestrutura.dll
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\Users.Infraestrutura.pdb
+C:\Users\gironpc\Desktop\integracao-sqlserver-entityframeworkcore\Users.API\Users.Infraestrutura\obj\Debug\net8.0\ref\Users.Infraestrutura.dll
